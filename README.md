@@ -22,28 +22,16 @@ In this project, machine learning is used to:
 ## 📂 Project Structure
 
 Mobile-Price-Prediction/
-
-
-│
 ├── data/
-│ ├── mobiledata.csv
-│ └── smartprix.html
-│
-
-
+│   ├── mobiledata.csv
+│   └── smartprix.html
 ├── scraping/
-│ └── smartprix_scraper.py
-│
-
-
+│   └── smartprix_scraper.py
 ├── notebooks/
-│ ├── 01_data_cleaning_eda.ipynb
-│ └── 02_model_training.ipynb
-│
-
+│   ├── data_cleaning_eda.ipynb
+│   └── model_training.ipynb
 ├── requirements.txt
 └── README.md
-
 
 ---
 
