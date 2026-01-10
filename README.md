@@ -25,6 +25,7 @@ Mobile-Price-Prediction/
 ├── data/
 │   ├── mobiledata.csv
 │   └── smartprix.html
+|   └── modeltraining.csv 
 ├── scraping/
 │   └── smartprix_scraper.py
 ├── notebooks/
